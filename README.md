@@ -1,16 +1,21 @@
- ## 🗳️ Electronic Voting System (EVS) 
-
-## 📜 Table of Contents
-- 🌟 [Introduction](#-introduction)
-- 🚀 [Features](#-features)
-- 💻 [Technologies Used](#-technologies-used)
-- 🔧 [Installation](#-installation)
-- 🔍 [Usage](#-usage)
-- 🧪 [Testing](#-testing)
-- 📸 [Screenshots](#-screenshots)
+   ## 🗳️ Electronic Voting System (EVS) 
 
 ## 🌟 Introduction
 The **Electronic Voting System (EVS)** is a **mobile application** designed to provide a secure, transparent, and accessible digital voting experience. 📱🛡️ It ensures fair elections by preventing fraud, enabling real-time results, and allowing voters to cast their votes from anywhere.
+
+## 📸 Screenshots
+
+### 🖥️ Home Page
+![Home Page](Images/Picture2.png)
+
+### 📝 Registration Page
+![Registration Page](screenshots/register.png)
+
+### 🔐 Login Page
+![Login Page](Images/Picture1.jpg)
+
+### 🗳️ Vote Casting Page
+![Vote Casting](Images/Picture3.png)
 
 ## 🚀 Features
 - 👤 **User Registration**: Register with your CNIC and OTP.
@@ -27,27 +32,6 @@ The **Electronic Voting System (EVS)** is a **mobile application** designed to p
 - 🗃️ **Database**: Firebase
 - 🔒 **Security**: OTP, Encryption
 - 🎨 **UI Design**: Designed in Figma for a seamless experience.
-
-## 🔧 Installation
-### Clone the Repository:
-```sh
-git clone https://github.com/your-username/electronic-voting-system.git
-cd electronic-voting-system
-```
-
-### Install Dependencies:
-```sh
-npm install
-```
-
-### Set Up Database:
-- Configure Firebase with the provided credentials.
-- Update database configuration in the project settings.
-
-### Run the App:
-```sh
-npx expo start
-```
 
 ## 🔍 Usage
 1. **Register**: Enter your CNIC and OTP to get a Voter ID.
@@ -70,22 +54,6 @@ We welcome contributions! 🛠️
 3. Commit your changes and push the branch.
 4. Submit a pull request with a detailed description.
 
-
-## 📸 Screenshots
-### 🖥️ Home Page
-![Home Page](Images/Picture2.png)
-
-### 📝 Registration Page
-![Registration Page](screenshots/register.png)
-
-### 🔐 Login Page
-![Login Page](Images/Picture1.jpg)
-
-### 🗳️ Vote Casting Page
-![Vote Casting](Images/Picture3.png)
-
-### 📊 Results Page
-![Results Page](screenshots/results.png)
 
 🎨 **Figma Prototype**: [Figma Link](#)
 
