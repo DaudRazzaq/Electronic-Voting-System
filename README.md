@@ -1,5 +1,5 @@
-```markdown
-# 🗳️ Electronic Voting System (EVS)
+
+ ** 🗳️ Electronic Voting System (EVS) **
 
 ## 📜 Table of Contents
 - 🌟 [Introduction](#-introduction)
