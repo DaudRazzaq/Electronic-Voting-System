@@ -1,5 +1,4 @@
-
- ** 🗳️ Electronic Voting System (EVS) **
+ ## 🗳️ Electronic Voting System (EVS) 
 
 ## 📜 Table of Contents
 - 🌟 [Introduction](#-introduction)
@@ -8,9 +7,6 @@
 - 🔧 [Installation](#-installation)
 - 🔍 [Usage](#-usage)
 - 🧪 [Testing](#-testing)
-- 🔮 [Future Work](#-future-work)
-- 🤝 [Contributing](#-contributing)
-- 📄 [License](#-license)
 - 📸 [Screenshots](#-screenshots)
 
 ## 🌟 Introduction
@@ -66,11 +62,6 @@ The system has been rigorously tested for security and reliability. Key test cas
 - ✅ **Vote Casting**: Ensure votes are cast correctly.
 - ✅ **Results**: Accurate result publishing after voting.
 
-## 🔮 Future Work
-- ☁️ **Cloud Integration**: Migrate to a cloud-based solution for scalability.
-- 📱 **Cross-Platform Support**: Enable voting via mobile, PC, and kiosks.
-- 🔐 **Enhanced Security**: Explore blockchain for added transparency.
-- 📈 **Real-Time Analytics**: Provide live analytics for election officials.
 
 ## 🤝 Contributing
 We welcome contributions! 🛠️
@@ -79,8 +70,6 @@ We welcome contributions! 🛠️
 3. Commit your changes and push the branch.
 4. Submit a pull request with a detailed description.
 
-## 📄 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## 📸 Screenshots
 ### 🖥️ Home Page
@@ -98,9 +87,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ### 📊 Results Page
 ![Results Page](screenshots/results.png)
 
-🌐 **GitHub Repo**: [EVS Repository](https://github.com/your-username/electronic-voting-system)
 🎨 **Figma Prototype**: [Figma Link](#)
 
-> **Note:** This project is for educational purposes and demonstrates the potential of electronic voting systems. 🎓 Not intended for real-world elections without further validation.
-```
+
 
