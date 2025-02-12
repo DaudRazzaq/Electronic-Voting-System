@@ -73,7 +73,7 @@ We welcome contributions! 🛠️
 
 ## 📸 Screenshots
 ### 🖥️ Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Images/Picture2.png)
 
 ### 📝 Registration Page
 ![Registration Page](screenshots/register.png)
