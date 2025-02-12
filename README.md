@@ -8,9 +8,6 @@ The **Electronic Voting System (EVS)** is a **mobile application** designed to p
 ### 🖥️ Home Page
 ![Home Page](Images/Picture2.png)
 
-### 📝 Registration Page
-![Registration Page](screenshots/register.png)
-
 ### 🔐 Login Page
 ![Login Page](Images/Picture1.jpg)
 
