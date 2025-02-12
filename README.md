@@ -82,7 +82,7 @@ We welcome contributions! 🛠️
 ![Login Page](Images/Picture1.jpg)
 
 ### 🗳️ Vote Casting Page
-![Vote Casting](screenshots/vote.png)
+![Vote Casting](Images/Picture3.png)
 
 ### 📊 Results Page
 ![Results Page](screenshots/results.png)
