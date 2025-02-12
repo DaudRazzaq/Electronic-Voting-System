@@ -79,7 +79,7 @@ We welcome contributions! 🛠️
 ![Registration Page](screenshots/register.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](Images/Picture1.jpg)
 
 ### 🗳️ Vote Casting Page
 ![Vote Casting](screenshots/vote.png)
